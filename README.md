@@ -1,11 +1,10 @@
 # Color_Generator_App （见源码内 VERSION 常量）
 
-> **一句话**：Color_Generator_App —— 一个用 Python 写的 Windows 桌面程序，
-> 主程序为 `Color_Generator_App.py`，界面技术栈 PyQt5（Qt5 社区绑定）。
+> **一句话**：Color_Generator_App —— 高级色彩生成器。
 >
 > **适合谁**：想直接用现成工具、不想自己写代码的 Windows 用户。
 >
-> **解决什么问题**：把这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
+> **解决什么问题**：把「高级色彩生成器」这件事做成开箱即用的程序 —— 下载解压、装上依赖、双击就能跑。
 
 ---
 
